@@ -45,4 +45,4 @@ Only authenticated users can create or delete posts
 
 Blog posts are stored in Firebase Firestore
 
-Real-time updates for post creation and deletion
+Real-time updates for post creation and deletion.
